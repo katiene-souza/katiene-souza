@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=957af1&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+meu+nome+é+Katiene+Souza;Tenho+20+aninhos;Eu+estudo+para+ser+desenvolvedora+Full+Stack+💜;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="41%" height="195px" [![Top Langs]src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiene-souza)](https://github.com/katiene-souza/github-readme-stats)&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"/>
-</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=katiene-souza&bg_color=0d1117&color=957af1&line=957af1&point=6138ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
