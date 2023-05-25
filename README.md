@@ -13,12 +13,11 @@
 
  
 ### Estudando neste momento:
-![NodeJS](https://img.shields.io/badge/-NodeJs-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<div align="center"> 
-<a href = "mailto:cmp.1a.katienesouza71@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="right"> 
 <a href="https://www.linkedin.com/in/katiene-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
